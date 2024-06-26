@@ -13,7 +13,7 @@ def extract_href(url):
     return href_list
 
 
-url = 'https://www.yarsabazar.com/'
+url = 'YOUR_URL_HERE'
 href_list = extract_href(url)
 
 # Save href attributes to CSV file
